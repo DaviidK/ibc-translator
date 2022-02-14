@@ -5,9 +5,8 @@
 </div>
 
 ### David Kang
-A project proposal submitted in partial fulfillment of the requirements of the degree of: Master of Science in Computer Science & Software Engineering
-
-University of Washington
+A project proposal submitted in partial fulfillment of the requirements of the degree of:  &nbsp;&nbsp; Master of Science in Computer Science & Software Engineering
+&nbsp;&nbsp; University of Washington
 
 ## Overview:
 This project will aim to offer further accessibility to individuals who rely on icon-based communication (IBC). Through identification of user-specified icons and their linkages to user-defined meanings, this project will bridge the communication gap that typically exists for IBC users when interacting with the systems of the modern world. The project application will be bi-directional, allowing users to convert icons into text, while also converting text-based language into any applicable icons.
