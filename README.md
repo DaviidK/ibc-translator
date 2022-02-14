@@ -5,7 +5,8 @@
 </div>
 
 ### David Kang
-A project proposal submitted in partial fulfillment of the requirements of the degree of:  &nbsp;&nbsp; Master of Science in Computer Science & Software Engineering
+A project proposal submitted in partial fulfillment of the requirements of the degree of:  
+&nbsp;&nbsp; Master of Science in Computer Science & Software Engineering  
 &nbsp;&nbsp; University of Washington
 
 ## Overview:
