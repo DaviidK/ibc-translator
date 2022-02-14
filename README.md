@@ -149,9 +149,8 @@ an input in the form of an icon or symbol [3,13]. Some examples of existing tool
 |The Picture Exchange Communication System is another solution which aims to teach text-based communication gradually using increasingly complex pictures. The system begins with basic symbols and meanings before progressing slowly towards sentence structure and conversation [9].|<img src="https://raw.githubusercontent.com/DaviidK/ibc-translator/main/Documentation/Images/PECS.jpg" width=700px/>|
 
 ## Value proposition:
-```
 The list of tools presented above is not comprehensive, but it does represent the functionality of options available to IBC users today. These tools by and large focus on moving from an icon or symbol to text, but few options exist to translate in the other direction [10,11,13]. This project will aim to provide new functionality to bridge this gap, and allow users to understand information that they may normally struggle to comprehend.
-```
+
 
 ## Resources and Constraints:
 The following functionalities will be sourced from existing methods:
@@ -205,8 +204,8 @@ https://www.friendshipcircle.org/blog/2011/02/07/7-assistive-communication-apps-
 [12] Tobii Dynavox LLC. Boardmaker.
 https://goboardmaker.com/
 
-[13] Holly Tuke. 2021. Assistive technology devices: How disabled people use the web. Big Hack.  https://bighack.org/assistive-technology-devices-definitions-how-disabled-
-people-use-the-web/
+[13] Holly Tuke. 2021. Assistive technology devices: How disabled people use the web. Big Hack.
+https://bighack.org/assistive-technology-devices-definitions-how-disabled-people-use-the-web/
 
 [14] Karl Wiegand. 2014. Intelligent assistive communication and the web as a social medium. W4A 2014 - 11th Web All Conf. (2014), 3–4. 
 DOI:https://doi.org/10.1145/2596695.
