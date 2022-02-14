@@ -23,21 +23,16 @@ IBC has some inherent advantages over speech or text-based communication. Primar
 ## Project Vision:
 
 ### Problem
-```
 Accessibility for IBC users is a growing field, but nevertheless incomplete. The majority of systems that exist to aid IBC users focus on allowing them to communicate with traditional speakers [10,11]. These tools have been effective in allowing icons to be translated into text or voice, but they fail to aid IBC users who have difficult parsing written text. The need exists for a tool which can effectively offer bi-directional communication between icon and text-based communication [13,14].
 
 This need is exacerbated by the growing dependence on the web for all parts of life. Many interactions that would previously have been carried out in-person have transitioned to being web based, and thus tend to rely on text-based communication [14].
-```
 
 ### Goals
-```
 At a high level, the purpose of this project is to create the backbone for a system which may aid individuals who use IBC in their day-to-day life. More specifically, the intent is to aid IBC users in consuming content designed for traditional communicators, while also offering a means to communicate themselves. The ideal end result would be capable of performing the necessary functions to facilitate communication from a text-based medium to IBC and vis-versa. 
-```
+
 
 ### Audience
-```
 The beneficiaries of this project will be IBC users, though they likely will not represent the target audience. It is unlikely that this project results in a fully functional application that is ready for end-users. Instead, the audience for this project would be developers who would be interested in building front-end applications which could utilize this project’s system. With this in mind, the focus of this project will be refining the mechanisms for IBC-to-text translation and all front-end work will be considered ancillary.
-```
 
 ## Criteria:
 | Level of Success | Functionality                                                          |
@@ -59,13 +54,11 @@ The beneficiaries of this project will be IBC users, though they likely will not
 
 
 ### Definition of quality
-```
 Measuring the quality of this project will be an inherently subjective task. This project would be deemed to be successful if it is able to adequately translate between text strings and icons. Determining what constitutes “adequate” will depend on the user experience when using the system. A well-produced system will create translations that are understandable without tedious amounts of effort.
 
 The primary metric that will be used for measuring this project’s success will be translation accuracy. For the purposes of this project, translation accuracy will be defined as the percentage of correct translations created when moving from IBC to text and vis-versa. This metric will likely require manual checking of test cases to create “correct” baseline translations.
 
 The specific value which defines success will need to be calibrated based on user experience. The target value should represent a point at which the translations created by the system are intelligible, but require minimal effort to understand. Values above this mark will indicate increasing levels of success. 
-```
 
 ## What tools exist?
 Current options for users of IBC primarily focus on producing text from an icon-based
