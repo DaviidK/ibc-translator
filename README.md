@@ -134,74 +134,35 @@ input. These tools almost all utilize some form of visual or tactile aid for use
 an input in the form of an icon or symbol [3,13]. Some examples of existing tools are:
 
 ### SymbolStix
-```
-A collection of different tools which include pictures alongside a text definition or meaning. These tools focus on allowing users to learn text-based language through an iconographical means [8].
-```
+|||
+|-|-|
+|A collection of different tools which include pictures alongside a text definition or meaning. These tools focus on allowing users to learn text-based language through an iconographical means [8].|<img src="https://raw.githubusercontent.com/DaviidK/ibc-translator/main/Documentation/Images/SymbolStix.png" width=1000px/>|
 
-<figure>
-    <img style=img align=right src="https://raw.githubusercontent.com/DaviidK/ibc-translator/main/Documentation/Images/SymbolStix.png">
-    <figcaption align=center>Chesney the Kitten attempts a giant leap<figcaption>
-<figure>    
-```
-Boardmaker: A software solution focused on
-allowing IBC users to communicate with
-traditional speakers. This product uses pre-
-defined sets of icons to give meaning to symbols.
-Users are given the option to select from
-different sets or create their own board using a
-combination of icons from different sets [12].
-```
-```
-PECS: The Picture Exchange Communication System is another
-solution which aims to teach text-based communication gradually
-using increasingly complex pictures. The system begins with basic
-symbols and meanings before progressing slowly towards sentence
-structure and conversation [9].
-```
-```
-Left: SymbolStix Squares Right: SymbolStix Prime
-Source: https://www.n2y.com/solutions/
-```
-An example board created using Boardmaker
-Source: https://www.autism-products.com/product/boardmaker-win-pc/
+### Boardmaker
+|||
+|-|-|
+|A software solution focused on allowing IBC users to communicate with traditional speakers. This product uses pre-defined sets of icons to give meaning to symbols. Users are given the option to select from different sets or create their own board using a combination of icons from different sets [12]|<img src="https://raw.githubusercontent.com/DaviidK/ibc-translator/main/Documentation/Images/Boardmaker.jpg" width=800px/>|
 
-```
-Early PECS picture cards
-Source:
-https://nationalautismresources.com
-/communication-picture-card-sets/
-```
+### PECS
+|                |                                                                        |
+|--------------------------------------------|--------------------------------------------|
+|The Picture Exchange Communication System is another solution which aims to teach text-based communication gradually using increasingly complex pictures. The system begins with basic symbols and meanings before progressing slowly towards sentence structure and conversation [9].|<img src="https://raw.githubusercontent.com/DaviidK/ibc-translator/main/Documentation/Images/PECS.jpg" width=700px/>|
 
-### Value proposition:
-
+## Value proposition:
 ```
-The list of tools presented above is not comprehensive, but it does represent the
-functionality of options available to IBC users today. These tools by and large focus
-on moving from an icon or symbol to text, but few options exist to translate in the
-other direction [10,11,13]. This project will aim to provide new functionality to
-bridge this gap, and allow users to understand information that they may
+The list of tools presented above is not comprehensive, but it does represent the functionality of options available to IBC users today. These tools by and large focus on moving from an icon or symbol to text, but few options exist to translate in the other direction [10,11,13]. This project will aim to provide new functionality to bridge this gap, and allow users to understand information that they may normally struggle to comprehend.
 ```
-#### normally struggle to comprehend.
 
 ## Resources and Constraints:
-
-```
 The following functionalities will be sourced from existing methods:
 ```
 - Object detection
 - Text recognition
 - Text-to-speech
-The exact libraries to be used will be determined during the beginning stages of
-this project, and will be chosen based on accuracy, ease of integration, and ease-of-
-use from a user’s perspective.
-
 ```
-By using third-party libraries, this project will be inherently constrained by the
-functionalities given in these libraries. A large of effort will be allocated into
-optimizing these technologies as much as possible for this application, but any
-underlying flaws in each library may carry over to this project’s system.
-```
+The exact libraries to be used will be determined during the beginning stages of this project, and will be chosen based on accuracy, ease of integration, and ease-of-use from a user’s perspective.
 
+By using third-party libraries, this project will be inherently constrained by the functionalities given in these libraries. A large of effort will be allocated into optimizing these technologies as much as possible for this application, but any underlying flaws in each library may carry over to this project’s system.
 
 ## References
 ```
