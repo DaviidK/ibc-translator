@@ -134,16 +134,16 @@ input. These tools almost all utilize some form of visual or tactile aid for use
 an input in the form of an icon or symbol [3,13]. Some examples of existing tools are:
 
 |SymbolStix||
-|-|-|
+|:-|-|
 |A collection of different tools which include pictures alongside a text definition or meaning. These tools focus on allowing users to learn text-based language through an iconographical means [8].|<img src="https://raw.githubusercontent.com/DaviidK/ibc-translator/main/Documentation/Images/SymbolStix.png" width=1000px/>|
 
 |Boardmaker||
-|-|-|
+|:-|-|
 |A software solution focused on allowing IBC users to communicate with traditional speakers. This product uses pre-defined sets of icons to give meaning to symbols. Users are given the option to select from different sets or create their own board using a combination of icons from different sets [12]|<img src="https://raw.githubusercontent.com/DaviidK/ibc-translator/main/Documentation/Images/Boardmaker.jpg" width=800px/>|
 
 
 |PECS||
-|-|-|
+|:-|-|
 |The Picture Exchange Communication System is another solution which aims to teach text-based communication gradually using increasingly complex pictures. The system begins with basic symbols and meanings before progressing slowly towards sentence structure and conversation [9].|<img src="https://raw.githubusercontent.com/DaviidK/ibc-translator/main/Documentation/Images/PECS.jpg" width=700px/>|
 
 ## Value proposition:
