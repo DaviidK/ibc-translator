@@ -4,8 +4,8 @@ import cv2
 
 pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files/TesseractOCR/tesseract.exe'
 
-img = cv2.imread('../Data/Test_Images/text_recognition_github.png')
-img = cv2.resize(img, (600, 360))
+img = cv2.imread('../Data/Test_Images/text_recognition_NFL_draft.png')
+# img = cv2.resize(img, (600, 360))
 print(pytesseract.image_to_string(img))
 cv2.imshow('Result', img)
 cv2.waitKey(0)
