@@ -1,6 +1,9 @@
 # Temp Files
 *.tmp
 
+# COCO dataset images
+./Data/coco/*/*.jpg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
